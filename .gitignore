@@ -1,0 +1,3 @@
+# Ignorer tous les dossiers nommés 'build' dans le répertoire racine et tous les sous-répertoires
+build/
+**/build/

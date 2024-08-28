@@ -1,0 +1,6 @@
+# install python
+pip install grpcio
+
+# install c++
+sudo apt install -y libgrpc-dev libgrpc++-dev protobuf-compiler-grpc
+
